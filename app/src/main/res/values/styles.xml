@@ -1,0 +1,19 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="colorAccent">@color/brand_color</item>
+        <item name="colorPrimary">@color/brand_color</item>
+    </style>
+
+
+    <style name="Button" parent="Base.Widget.AppCompat.Button">
+    </style>
+
+    <style name="Button.Branded" parent="Button">
+        <item name="colorButtonNormal">?attr/colorAccent</item>
+    </style>
+
+</resources>

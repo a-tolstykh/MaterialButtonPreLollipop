@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MaterialButtonPreLollipop</string>
+
+    <string name="material_button">Material button</string>
+    <string name="usual_button">Usual button</string>
+    <string name="action_settings">Settings</string>
+</resources>
